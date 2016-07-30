@@ -1,9 +1,13 @@
-GovHack 2016 project page: http://bit.ly/FirstNamesGovHack
-Growing Data Foundation GovHack 2016 Repository: https://github.com/growingdatafoundation/govhack2016 > First Names Here folder: https://github.com/growingdatafoundation/govhack2016/tree/master/fnh_gdf
-Growing Data Foundation website repository: https://github.com/growingdatafoundation/growingdatafoundation.github.io
-Growing Data Foundation branding repository: https://github.com/growingdatafoundation/gdf-brand
+First Names Here project:
+- GovHack 2016 project page: http://bit.ly/FirstNamesGovHack
+- Growing Data Foundation GovHack 2016 Repository: https://github.com/growingdatafoundation/govhack2016 > First Names Here folder: https://github.com/growingdatafoundation/govhack2016/tree/master/fnh_gdf
+- Growing Data Foundation website repository: https://github.com/growingdatafoundation/growingdatafoundation.github.io
+- Growing Data Foundation branding repository: https://github.com/growingdatafoundation/gdf-brand
+
+Datasets:
+- 
 
 Resources: * First Names Here photo of Victoria Square - photos, Rhys Moult; Design: brent leideritz: https://goo.gl/photos/nMBcQjS9tGA97K1KA
-* If images are required, public domain photos, vectors, etc can be sourced from - Pixabay: http://www.pixabay.com | Unsplash: https://unsplash.com/
-* Open Licensed icons, symbols, etc - Font Awesome: http://www.flaticon.com/packs/font-awesome and icons: http://fontawesome.io/icons/ 
-* Open Clip Art/SVGs: http://www.openclipart.org
+- If images are required, public domain photos, vectors, etc can be sourced from - Pixabay: http://www.pixabay.com | Unsplash: https://unsplash.com/
+- Open Licensed icons, symbols, etc - Font Awesome: http://www.flaticon.com/packs/font-awesome and icons: http://fontawesome.io/icons/ 
+- Open Clip Art/SVGs: http://www.openclipart.org

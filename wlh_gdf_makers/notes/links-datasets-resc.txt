@@ -1,10 +1,14 @@
-GovHack 2016 project page: http://bit.ly/WhatLivesHere
-Growing Data Foundation GovHack 2016 Repository: https://github.com/growingdatafoundation/govhack2016 > What Lives Here folder: https://github.com/growingdatafoundation/govhack2016/tree/master/wlh_gdf_makers
-Growing Data Foundation website repository: https://github.com/growingdatafoundation/growingdatafoundation.github.io
-Growing Data Foundation branding repository: https://github.com/growingdatafoundation/gdf-brand
+What Lives Here project:
+- GovHack 2016 project page: http://bit.ly/WhatLivesHere
+- Growing Data Foundation GovHack 2016 Repository: https://github.com/growingdatafoundation/govhack2016 > What Lives Here folder: https://github.com/growingdatafoundation/govhack2016/tree/master/wlh_gdf_makers
+- Growing Data Foundation website repository: https://github.com/growingdatafoundation/growingdatafoundation.github.io
+- Growing Data Foundation branding repository: https://github.com/growingdatafoundation/gdf-brand
+
+Datasets:
+- 
 
 Resources: 
-* What Lives Here possum photos - photos, Rhys Moult; Design: brent leideritz: https://goo.gl/photos/nMBcQjS9tGA97K1KA
-* If images are required, public domain photos, vectors, etc can be sourced from - Pixabay: http://www.pixabay.com | Unsplash: https://unsplash.com/
-* Open Licensed icons, symbols, etc - Font Awesome: http://www.flaticon.com/packs/font-awesome and icons: http://fontawesome.io/icons/ 
-* Open Clip Art/SVGs: http://www.openclipart.org
+- What Lives Here possum photos - photos, Rhys Moult; Design: brent leideritz: https://goo.gl/photos/nMBcQjS9tGA97K1KA
+- If images are required, public domain photos, vectors, etc can be sourced from - Pixabay: http://www.pixabay.com | Unsplash: https://unsplash.com/
+- Open Licensed icons, symbols, etc - Font Awesome: http://www.flaticon.com/packs/font-awesome and icons: http://fontawesome.io/icons/ 
+- Open Clip Art/SVGs: http://www.openclipart.org
