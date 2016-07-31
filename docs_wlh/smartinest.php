@@ -65,14 +65,14 @@ $nest=$_REQUEST['nest'];
 				<div id="header">
 
 					<!-- Logo -->
-						<h1><a href="index.html">What Lives Here?</a></h1>
+						<h1><a href="/">What Lives Here?</a></h1>
 						<a href="/"><img src="/assets/images/whatliveshere_logo_500px.png" height="100" width="100" alt="What Lives Here?" /></a>
 
 
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="Dashboard">Dashboard</a></li>	
+								<li><a href="#">Dashboard</a></li>	
 							</ul>
 						</nav>
 				</div>
