@@ -1,0 +1,97 @@
+		<!-- Footer -->
+			<div id="footer-wrapper">
+				<section id="footer" class="container">
+					<div class="row">
+						<div class="4u">
+							<section>
+								<header>
+									<h2>What's this all about?</h2>
+								</header>
+								<a href="#" class="image featured"><img src="{{ site.baseurl }}/assets/images/sprout.jpg" alt="" /></a>
+								<p>The Growing Data Foundation supports open projects and systems and, in particular, the development of sustainable open solutions for community improvement and social good.</p>
+							</section>
+						</div>
+						<div class="8u">
+							<section>
+								<header>
+									<h2>Upcoming events</h2>
+								</header>
+								<ul class="dates">
+								{% for event in site.events offset: 0 limit: 5 %}
+									<li>
+										<span class="date">{{ event.date | date: "%B"}} <strong>{{ event.date | date: "%d"}}</strong></span>
+										<h3><a href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a></h3>
+										{{ event.excerpt }}
+									</li>
+								{% endfor %}
+								</ul>
+							</section>
+						</div>
+					</div>
+					<div class="row">
+						<div class="4u">
+							<section>
+								<header>
+									<h2>Find us on social media</h2>
+								</header>
+								<ul class="social" id="contact">
+									<li><a class="icon fa-facebook" href="http://fb.me/GrowingDataFdt"><span class="label">Facebook</span></a></li>
+									<li><a class="icon fa-twitter" href="http://twitter.com/GrowingDataFdt"><span class="label">Twitter</span></a></li>
+									<li><a class="icon fa-instagram" href="http://twitter.com/Instagram"><span class="label">Instagram</span></a></li>
+									<li><a class="icon fa-youtube" href="http://youtube.com/c/WhatgrowshereAuADL/"><span class="label">YouTube</span></a></li>
+									<li><a class="icon fa-google-plus" href="http://plus.google.com/+WhatgrowshereAuADL/"><span class="label">Google+</span></a></li>
+								</ul>
+								<ul class="contact">
+									<li>
+										<h3>Address</h3>
+										<p>
+											Growing Data Foundation Limited<br />
+											GPO Box 1125<br />
+											Adelaide, SA 5001
+										</p>
+									</li>
+								</ul>
+							</section>
+						</div>
+						<div class="4u">
+							<section>
+								<header>
+									<h2>Open hackathons</h2>
+								</header>
+								<ul class="divided">
+									<li><a href="http://uladl.com/">Unleashed SA</a></li>
+									<li><a href="http://www.govhack.org/">GovHack</a></li>
+								</ul>
+							</section>
+						</div>
+						<div class="4u">
+							<section>
+								<header>
+									<h2>Government open data</h2>
+								</header>
+								<ul class="divided">
+									<li><a href="http://data.gov.au">data.gov.au</a></li>
+									<li><a href="http://data.sa.gov.au">data.sa.gov.au</a></li>
+								</ul>
+							</section>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u">
+
+							<!-- Copyright -->
+								<div id="copyright">
+									<ul class="links">
+										<li><strong>Dopetrope</strong> template by <a href="http://n33.co">AJ</a> for <a href="http://html5up.net/">HTML5 UP</a></li>
+										<li>Demo Images: <a href="http://facebook.com/DreametryDoodle">Dreametry Doodle</a></li>
+										<li>Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>
+									</ul>
+								</div>
+
+						</div>
+					</div>
+				</section>
+			</div>
+
+	</body>
+</html>

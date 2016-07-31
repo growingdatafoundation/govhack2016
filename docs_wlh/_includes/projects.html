@@ -1,0 +1,30 @@
+		<div class="row">
+			<div class="12u">
+
+				<!-- Projects -->
+					<section>
+						<header class="major">
+							<h2>Projects</h2>
+						</header>
+						<div class="row">
+						{% for project in site.projects offset: 0 limit: 3 %}
+							<div class="4u">
+								<section class="box">
+									<a href="{{ site.baseurl }}{{ project.url }}" class="image featured"><img src="{{ site.baseurl }}{{ project.featured }}" alt="" /></a>
+									<header>
+										<h3>{{ project.title }}</h3>
+									</header>
+									{{ project.excerpt }}
+									<footer>
+										<ul class="actions">
+											<li><a href="{{ site.baseurl }}{{ project.url }}" class="button icon fa-file-text">Continue Reading</a></li>
+										</ul>
+									</footer>
+								</section>
+							</div>
+						{% endfor %}
+						</div>
+					</section>
+
+			</div>
+		</div>

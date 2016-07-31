@@ -1,0 +1,15 @@
+name: Growing Data Foundation Ltd
+description: Growing publicly accessible OpenData on our environments...
+paginate: 10
+url: 'https://growingdatafoundation.github.io'
+baseurl: ''
+timezone: Australia/Adelaide
+twitter_username: growingdatafdt
+github_username: growingdatafoundation
+collections:
+  projects:
+    output: true
+  events:
+    output: true
+# Gems
+gems: [jekyll-paginate]
