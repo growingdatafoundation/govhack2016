@@ -13,3 +13,4 @@ Resources:
 - Open Licensed icons, symbols, etc - Font Awesome: http://www.flaticon.com/packs/font-awesome and icons: http://fontawesome.io/icons/ 
 - Open Clip Art/SVGs: http://www.openclipart.org
 - Atlas of Living Australia possum sightings spacial - http://spatial.ala.org.au/?q=possum&fq=country%3A%22Australia%22
+ - - YouTube Channel: https://www.youtube.com/channel/UCEbCzPQU2snj_cmVMyreS3g

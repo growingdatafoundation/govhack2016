@@ -1,0 +1,65 @@
+First Names
+About
+
+What this project is about
+
+This project was developed on the land of the Kaurna People during the Unleashed 2016 Govhack event at the University of South Australia western campus.
+
+Statement of Acknowledgement:
+We would like to Acknowledge that the land we meet on today is the traditional lands for the Kaurna people and that we respect their spiritual relationship with their Country. We also acknowledge the Kaurna people as the traditional custodians of the Adelaide region and that their cultural and heritage beliefs are still as important to the living Kaurna people today.
+
+What First Names is a project that displays Indigenous Place name information from the South Australian Governments Place names (State Gazetteer), made available under a Creative Commons License at data.sa.gov.au. The dataset may contain errors and any inference about so called language boundaries is the users own.
+
+The following are represented in the dataset
+
+Adnyamathanha
+Arabana
+Kaurna
+Kuyani
+Narungga
+Ngarrindgeri
+Nukunu
+Pangkala
+Pirlatapa
+Pitjantjatjara
+Southern Aranda
+Thirrari
+Wangkangurra
+Wirangu
+Yaralde
+Place name data is recognised as being of 3 types
+
+Place names falling under the official Dual Naming System developed in conjunction with Local Indigenous Groups
+Place names recorded by linguists as being the recognised indegenous name for the place or area
+Place names developed in conjunction with Local Indigenous Groups
+Any further enhancement to this dataset and application will be done only after consultation with communities and authorities and added on a per community basis.
+
+However the general principle is that the system evolves using Growing Data Foundation open IP and API’s to a point where trusted authorities can add the data they wish to share from the field or office, and that GIS capabilities are enhanced to include areas and routes, and the indigenous names for fauna and flora in an area.
+
+Pipeline
+
+1 remove sidebar
+2 make full screen
+
+3 remove wordpress search and replace with the marker search
+
+4 build 3 icon types
+5 deploy new icon types
+6 Marker name formatting
+7 Build new data architecture and Move project to mongo and use the Growing Data Foundations What Grows Here platform
+8 Build authentication for community and enable local caching to remove the need for network connections
+9 Add indigenous plant name capability to What Grows Here Database
+10 Build heat map of languages to form Language places 
+
+
+---------
+
+Names and language are not just words - they are closely linked to our identity, culture and history.  
+
+Around Australia Aboriginal communities and groups are reviving and sharing their languages through story, song and through community and formal eduction.  As you walk around this app will allow you to see the first names for places and, possibly later, for plants and things.  
+
+You will be able to see what Aboriginal communities predominant in a particular area -- fixed borders are a very western concept and we want to reflect this by avoiding drawing firm regional borders but instead showing you where there is a predominance from a particular community and where there is a shared presence from a number of communities.
+
+As well a general interest - this app could be used as a learning tool for schools to provoke discussion and learning linked to the Australian Curriculum Across Curriculum Prioritys, Aboriginal and Torres Strait Islander histories and cultures
+
+(aka First Names Here)

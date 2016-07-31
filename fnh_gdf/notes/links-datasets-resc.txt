@@ -11,3 +11,4 @@ Resources: * First Names Here photo of Victoria Square - photos, Rhys Moult; Des
 - If images are required, public domain photos, vectors, etc can be sourced from - Pixabay: http://www.pixabay.com | Unsplash: https://unsplash.com/
 - Open Licensed icons, symbols, etc - Font Awesome: http://www.flaticon.com/packs/font-awesome and icons: http://fontawesome.io/icons/ 
 - Open Clip Art/SVGs: http://www.openclipart.org
+- YouTube Channel: https://www.youtube.com/channel/UCEbCzPQU2snj_cmVMyreS3g
